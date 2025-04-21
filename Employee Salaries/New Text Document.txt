@@ -1,0 +1,11 @@
+# employee
+avg salary
+distribution of salary
+relation experience level and company size O
+company size and salary X
+avg salary by year O
+salary and company location O
+jop title and remote ratio O
+salary and remote ratio O
+salary and employment type O
+salary and job title O
